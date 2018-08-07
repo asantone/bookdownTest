@@ -5,9 +5,9 @@ output:
 ---
 # Cutting PVC Pipe and Building a Siphon
 
-Meeting 2 notes...
+Meeting 2 notes (@author2018)
 
-Here's a table example:
+Here's a really cool table example:
 
 Table: (\#tab:unnamed-chunk-1)A table of the first 10 rows of the mtcars data.
 
