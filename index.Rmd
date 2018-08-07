@@ -2,15 +2,12 @@
 title: "JV InvenTeams: Growing Green"
 author: "Lemelson-MIT Program"
 date: "`r Sys.Date()`"
-output: 
-  md_document:
-    variant: markdown_phpextra
 description: An example of a JV InvenTeams Curriculum Guide.
 documentclass: book
 bibliography: book.bib
-site: bookdown::bookdown_site
 biblio-style: apalike
-link-citations: true
+link-citations: yes
+site: bookdown::bookdown_site
 cover-image: "img/knit-logo.png"
 ---
 
