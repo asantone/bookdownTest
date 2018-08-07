@@ -1,0 +1,35 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+  word_document: default
+---
+# Check Valves
+
+Meeting 3 notes...
+
+- This is a list item
+- Item 2
+    - nested items need four spaces to indent
+    - sublist item 2
+    - sublist item 3
+- Item 3
+- Item 4
+- Item 5
+
+If you need it you can do R code inside easily.
+```{r chunk-label, echo = FALSE, fig.cap = 'A figure caption.'}
+plot(dist ~ speed, cars)  # a scatterplot
+```
+
+You can include regular graphics also:
+```{r echo = FALSE, fig.cap = 'A ball of yarn.'}
+library(knitr)
+knitr::include_graphics("img/knit-logo.png")
+```
+
+Interactive Shiny apps are available also for maps or whatever:
+```{r echo=FALSE, fig.cap = 'An interactive Shiny application.'}
+knitr::include_app("https://yihui.shinyapps.io/miniUI/", height = "600px")
+```
+

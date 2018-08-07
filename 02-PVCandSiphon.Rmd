@@ -1,0 +1,16 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
+# Cutting PVC Pipe and Building a Siphon
+
+Meeting 2 notes...
+
+Here's a table example:
+```{r echo=FALSE}
+knitr::kable(
+  head(mtcars[, 1:8], 10), booktabs = TRUE,
+  caption = 'A table of the first 10 rows of the mtcars data.'
+)
+```
