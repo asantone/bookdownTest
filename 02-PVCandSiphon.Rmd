@@ -7,7 +7,7 @@ output:
 
 Meeting 2 notes (@author2018)
 
-Here's a table example:
+Here's a really cool table example:
 ```{r echo=FALSE}
 knitr::kable(
   head(mtcars[, 1:8], 10), booktabs = TRUE,
