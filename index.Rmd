@@ -10,7 +10,7 @@ documentclass: book
 bibliography: book.bib
 site: bookdown::bookdown_site
 biblio-style: apalike
-link-citations: yes
+link-citations: true
 cover-image: "img/knit-logo.png"
 ---
 
