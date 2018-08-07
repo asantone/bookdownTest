@@ -2,6 +2,6 @@ book_filename: "jvExample"
 chapter_name: "Meeting "
 #repo: https://github.com/seankross/bookdown-start
 output_dir: docs
-rmd_files: ["index.Rmd", "01-Introduction.Rmd", "02-PVCandSiphon.Rmd", "03-CheckValves.Rmd", "04-Appendix.Rmd"]
+rmd_files: ["index.Rmd", "01-Introduction.Rmd", "02-PVCandSiphon.Rmd", "03-CheckValves.Rmd", "04-Appendix.Rmd", "references.Rmd"]
 clean: [packages.bib, bookdown.bbl]
 new_session: yes
