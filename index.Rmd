@@ -7,10 +7,10 @@ output:
     variant: markdown_phpextra
 description: An example of a JV InvenTeams Curriculum Guide.
 documentclass: book
-link-citations: yes
 bibliography: book.bib
 site: bookdown::bookdown_site
 biblio-style: apalike
+link-citations: yes
 cover-image: "img/knit-logo.png"
 ---
 

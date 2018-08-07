@@ -5,7 +5,7 @@ output:
 ---
 # Cutting PVC Pipe and Building a Siphon
 
-Meeting 2 notes...
+Meeting 2 notes (@author2018)
 
 Here's a table example:
 ```{r echo=FALSE}
