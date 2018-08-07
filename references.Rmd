@@ -1,1 +1,7 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
+
 `r if (knitr::is_html_output()) '# References {-}'`
